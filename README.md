@@ -4,10 +4,10 @@
 
 ## I'm a Full Stack Software Developer 
 
-- 🎯 I’m currently working on technologies like Spring,  Angular and React .
-- 🎮 I’m currently learning everything about Frontend and Backend technologies .
-- 🏆 Future Goals: Become a tech master. - Never stop creating new ideas .
-- 😃 Fun fact: I love to watch football and read detective novels .
+- 🎯 I’m currently working on technologies like Spring,  Angular and React.
+- 🎮 I’m currently learning everything about Frontend and Backend technologies.
+- 🏆 Future Goals: Become a tech master. - Never stop creating new ideas.
+- 😃 Fun fact: I love to watch football and read detective novels.
 
 
 
