@@ -1,6 +1,6 @@
 # Hi there, I'm Rushain Sovis <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-- - -
+
 
 
 ## I'm a Full Stack Software Developer 
@@ -10,7 +10,7 @@
 - 🏆 Future Goals: Become a tech master. - Never stop creating new ideas.
 - 😃 Fun fact: I love watching football and reading detective novels.
   
-- - -
+  
 
 ## Favourite Languages and Tools
 
