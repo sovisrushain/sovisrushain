@@ -8,7 +8,7 @@
 - 🛸 Fun Fact: I love watching football and reading detective novels.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/62250662/139597481-a5c2f106-3d88-4379-be32-b88485418bad.jpeg" width="100">
+<img src="https://user-images.githubusercontent.com/62250662/139597481-a5c2f106-3d88-4379-be32-b88485418bad.jpeg" width="400">
 </div>
 
   
