@@ -6,10 +6,10 @@
 
 ## I'm Rushain Sovis
 
-- 🎯 I’m currently working on technologies like Spring, Angular and React.
-- 🎮 I’m currently learning everything in Frontend and Backend technologies.
-- 🏆 Future Goals: Become a tech master. - Never stop creating new ideas.
-- 😃 Fun fact: I love watching football and reading detective novels.
+- 🎯 I am a Full Stack Developer.
+- 💪 I am proficient with Java, Spring, SQL, Angular and React.
+- ⛳ Future Goals: Become a great Software Architect.
+- 🛸 Fun Fact: I love watching football and reading detective novels.
   
   
 
