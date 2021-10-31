@@ -7,8 +7,9 @@
 - ⛳ Future Goals: Become a great Software Architect.
 - 🛸 Fun Fact: I love watching football and reading detective novels.
 
+<div align="center">
 ![20 Full Stack Java Developer Resume](https://user-images.githubusercontent.com/62250662/139597111-9d3b41a5-1a80-49f4-b301-6b0d4ced6591.jpeg)
-  
+</div>
   
 <div align="center">
 <h2>𝐅𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬</h2>
