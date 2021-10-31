@@ -8,8 +8,9 @@
 - 🛸 Fun Fact: I love watching football and reading detective novels.
   
   
-
-## Favourite Languages and Tools
+<div align="center">
+<h2>𝐅𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬</h2>
+</div>
 
 <p>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
