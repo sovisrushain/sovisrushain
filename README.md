@@ -6,7 +6,7 @@
 - 🎯 My aim of profession to become a great Software Architect
 - ⛳ I love coding on weekdays & football, cool beer on weekends -->
 
-Hello, and welcome to my profile! 🍃
+Hello, and welcome to my profile! 
 
 💪 I am a dedicated Java Back-end Engineer with extensive experience in Object-Oriented Software Design and Development, specifically focused on building large-volume web applications. 
 
