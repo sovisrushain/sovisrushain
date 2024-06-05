@@ -6,32 +6,20 @@
 
 ---
 
-### 👋 About Me
+### 🐼 About Me
 
-I'm a **Senior Software Engineer** with a knack for crafting enterprise apps using **Java Spring Boot** and **React**. I'm all about robust full-stack solutions that make a difference. But that's just the start. 
-
-I'm fascinated by:
-
-- **DevOps**
-- **Cloud Computing**
-- **Linux**
-- Concepts like **Containerization**, **Container Orchestration**, **CI/CD**, **Infrastructure Automation**, and **Infrastructure Provisioning**.
-
-Stick around as I keep pushing boundaries and expanding my knowledge in these exciting domains – let's shape the future together!
+I'm a software engineer with a knack for crafting enterprise apps using **Java Spring Boot** and **React**. I'm all about robust full-stack solutions that make a difference. But that's just the start. I'm fascinated by **DevOps, Cloud computing, Linux**, and concepts like **containerization, container orchestration, CI/CD, infrastructure automation, and infrastructure provisioning**. Stick around as I keep pushing boundaries and expanding my knowledge in these exciting domains – let's shape the future together!
 
 ---
 
 ### 🚀 My Tech Stack
 
-#### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -52,15 +40,6 @@ Stick around as I keep pushing boundaries and expanding my knowledge in these ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovisrushain&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
-
-### 🌱 Currently Learning
-
-- Advanced **Kubernetes** concepts
-- **Terraform** for infrastructure provisioning
-- Exploring **AWS**
-
----
 
 ### 🤝 Connect with Me
 
