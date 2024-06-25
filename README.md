@@ -3,7 +3,7 @@
 Welcome to my profile! 🚀
 </h1>
 
-![alt text](https://github.com/cisco-trash-code/res/blob/main/Blue%20Modern%20Hello%20Winter%20Facebook%20Fundraiser%20Cover%20Photo.png?raw=true)
+![alt text](https://github.com/cisco-trash-code/dp/blob/main/Blue%20Modern%20Hello%20Winter%20Facebook%20Fundraiser%20Cover%20Photo.png)
 
 
 
